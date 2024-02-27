@@ -1,6 +1,3 @@
-# Latihan-Branch
-Latihan Pull Request
+# latihan-branch
+Latihan Pull Requst
 --
-Belajar Github di Dicoding itu Seru!<br>
-Apalagi Belajarnya di Dicoding<br>
-Terima Kasih
